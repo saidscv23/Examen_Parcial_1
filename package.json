@@ -1,0 +1,22 @@
+{
+  "name": "examen_parcial1",
+  "version": "1.0.0",
+  "description": "Examen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saidscv23/Examen_Parcial_1.git"
+  },
+  "author": "said",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saidscv23/Examen_Parcial_1/issues"
+  },
+  "homepage": "https://github.com/saidscv23/Examen_Parcial_1#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
